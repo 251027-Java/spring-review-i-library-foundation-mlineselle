@@ -85,10 +85,10 @@ Create `DataSeeder.java` configuration class to populate 5 books on startup.
 5. DataSeeder that populates initial books
 
 ## Verification
-- [ ] Application starts without errors
-- [ ] H2 console accessible at `http://localhost:8080/h2-console`
-- [ ] BOOKS table exists with 5 records
-- [ ] BookService uses constructor injection
+- [x] Application starts without errors
+- [x] H2 console accessible at `http://localhost:8080/h2-console`
+- [x] BOOKS table exists with 5 records
+- [x] BookService uses constructor injection
 
 ## Starter Code
 See `starter_code/` directory
